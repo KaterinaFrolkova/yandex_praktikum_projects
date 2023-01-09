@@ -16,4 +16,5 @@
 
 **Используемые библиотеки**
 
-*pandas*
+ * *pandas*
+ * *matplotlib.pyplot*

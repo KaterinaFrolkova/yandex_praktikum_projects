@@ -1,1 +1,5 @@
-# yandex_praktikum_projects
+# **Яндекс.Практикум** (примеры учебных проектов, проделанных в рамках курса по программе "Аналитик данных")
+
+|[Анализ поведения пользователей мобильного приложения](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/app_users_behavior_survey)|Построние воронки событий, интерпретация результатов AAB теста|
+|||
+

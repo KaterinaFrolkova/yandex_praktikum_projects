@@ -3,5 +3,5 @@
 
 |[Анализ поведения пользователей мобильного приложения](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/app_users_behavior_survey)|Построние воронки событий, интерпретация результатов AAB теста|
 |:-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
-|[Анализ AB теста]([https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/app_users_behavior_survey](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/ab_test_results))|Приоритезация гипотез, анализ результатов AB теста для увеличения выручки интернет-магазина|
+|[Анализ AB теста](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/ab_test_results)|Приоритезация гипотез, анализ результатов AB теста для увеличения выручки интернет-магазина|
 |:-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|

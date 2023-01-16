@@ -24,4 +24,4 @@
 
  * *pandas*
  * *numpy*
- * *matplotlib.pyplot*
+ * *matplotlib*

@@ -16,4 +16,4 @@
  * *pandas*
  * *numpy*
  * *seaborn*
- * *scipy.stats*
+ * *scipy*

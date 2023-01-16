@@ -15,6 +15,6 @@
 
  * pandas
  * numpy
- * matplotlib.pyplot
+ * matplotlib
  * math 
  * plotly

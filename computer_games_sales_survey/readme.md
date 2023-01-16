@@ -13,6 +13,6 @@
 **Используемые библиотеки**
 
  * *pandas*
- * *matplotlib.pyplot*
+ * *matplotlib*
  * *numpy*
- * *scipy.stats*
+ * *scipy*

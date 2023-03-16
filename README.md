@@ -3,7 +3,7 @@
 
 |Название проекта|Описание|Стек|
 |:-------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|-|
-|[Сегментация покупателей интернет-магазина](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/e-com_clients_segmentation)|Сегментация покупателей по профилю потребления,          составление рекомендаций для рекламных активностей и улучшения метрик| pandas, numpy, matplotlib, seaborn, scipy
+|[Сегментация покупателей интернет-магазина](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/e-com_clients_segmentation)|Финальный проект. Сегментация покупателей по профилю потребления, составление рекомендаций для рекламных активностей и улучшения метрик| pandas, numpy, matplotlib, seaborn, scipy
 |[Анализ поведения пользователей мобильного приложения](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/app_users_behavior_survey)|Построение воронки событий, поиск слабых мест воронки, интерпретация результатов AAB теста| pandas, numpy, matplotlib, plotly, math
 |[Анализ AB теста](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/ab_test_results)|Приоритезация гипотез, расчет кумулятивных метрик, анализ результатов AB теста для увеличения выручки интернет-магазина| pandas, numpy, matplotlib, scipy
 |[Анализ оккупаемости затрат на рекламу мобильного приложения](https://github.com/KaterinaFrolkova/yandex_praktikum_projects/tree/main/app_loss_analysis)|Расчет бизнес-метрик LTV, CAC, ROI, рекомендации по оптимизации рекламных каналов| pandas, numpy, matplotlib
